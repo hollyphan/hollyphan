@@ -8,7 +8,7 @@ I specialize in turning raw data into actionable insights through **Excel, SQL, 
   ## 📊 Featured Projects  
 
 - **[☕ Coffee Sales Dashboard (Excel Project)](https://github.com/hollyphan/Excel)**  
-  Built an interactive Excel dashboard analyzing coffee sales by region, product type, and customer loyalty.  
+  An interactive Excel dashboard analyzing coffee sales by region, product type, and customer loyalty.  
   *Skills:* PivotTables, Slicers, Advanced Excel Formulas, Data Visualization, Business Insights  
 
 - **[🏠 Nashville Housing Data Cleaning & Analysis (SQL Project)](https://github.com/hollyphan/SQL)** *(in progress)*  
