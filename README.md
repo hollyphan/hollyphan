@@ -36,7 +36,7 @@ I specialize in turning raw data into actionable insights through **Excel, SQL, 
 - 🎓 B.A. in Interdisciplinary Studies (MIS, Finance, Entrepreneurship) – San Diego State University  
 - 📈 Passionate about using data to solve business problems and improve decision-making  
 - 🚀 Currently building portfolio projects to showcase my skills in SQL, Power BI, and Excel  
-- 🤝 Open to Business Analyst and Data Analyst opportunities in **tech, finance, and consulting**  
+- 🤝 Open to Business Analyst and Strategy Analyst opportunities in **tech, finance, and consulting**  
 
 ---
 
