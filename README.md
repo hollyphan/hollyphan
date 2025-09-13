@@ -1,7 +1,6 @@
 # 👋 Hi, I’m Holly Phan  
 
-I’m a **Business Analyst** based in San Diego, CA with 3+ years of experience in financial operations, data analysis, and process optimization.  
-I specialize in turning raw data into actionable insights through **Excel, SQL, Power BI, and SAP**. My background in billing and operations analysis has taught me how to streamline processes, build efficient systems, and deliver business recommendations that drive measurable impact.  
+I’m a **Business Analyst** based in San Diego, CA with 3+ years of experience in financial operations, data analysis, and process optimization. I specialize in turning raw data into actionable insights through **Excel, SQL, Power BI, and SAP**. My background in billing and operations analysis has taught me how to streamline processes, build efficient systems, and deliver business recommendations that drive measurable impact.  
 
 ---
 
