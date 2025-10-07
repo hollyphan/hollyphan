@@ -10,7 +10,7 @@ I’m a **Business Analyst** based in San Diego, CA with 3+ years of experience 
   An interactive Excel dashboard analyzing coffee sales by region, product type, and customer loyalty.  
   *Skills:* PivotTables, Slicers, Advanced Excel Formulas, Data Visualization, Business Insights  
 
-- **[🏠 Nashville Housing Data Cleaning & Analysis (SQL Project)](https://github.com/hollyphan/SQL)** 
+- **[🏠 Nashville Housing Data Cleaning & Analysis (SQL Project)](https://github.com/hollyphan/SQL)**  
   Cleaned and transformed raw housing data into a business-ready dataset using SQL.  
   *Skills:* SQL (data cleaning, joins, transformations), Data Standardization, Business Reporting  
 
