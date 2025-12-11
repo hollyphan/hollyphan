@@ -54,6 +54,7 @@ Comprehensive Power BI dashboard visualizing revenue, quantity sold, and profita
 ### **Analytics & Modeling**
 
 SQL • Excel (advanced) • Power BI • Data Cleaning • KPI Dashboards • BI Reporting
+
 *Coming soon from MicroMasters:* Python • Regression Modeling • Forecasting • Optimization • Classification
 
 ### **Business Operations & Strategy**
