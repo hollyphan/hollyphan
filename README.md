@@ -1,18 +1,20 @@
-# 🚀 Holly Phan — Business Operations & Analytics
+# 🚀 Holly Phan — Operations & Analytics
 
-### *BizOps | Strategy & Operations | Product Analytics | Graduate Analytics Student (Georgia Tech)*
+### *Product Ops | Data Analytics | Program Management | Graduate Analytics Student (Georgia Tech)*
 
-Hi! I’m **Holly**, a Business Operations & Analytics professional with **3+ years of experience** in:
+Hi! I’m **Holly**, an operations and analytics professional with **3+ years of experience** in:
 
-* Revenue & financial operations
-* Data analysis & KPI reporting
-* Product-adjacent operations
-* Process optimization & systems improvement
+* Data analysis & KPI reporting  
+* Product-adjacent operations  
+* Workflow optimization & systems improvement  
+* Cross-functional execution and program coordination
+
 
 I specialize in turning ambiguous business problems into **structured, data-driven decisions**.
 Currently, I’m pursuing the **Georgia Tech MicroMasters in Analytics (2026)** and will apply to the **Georgia Tech MS in Analytics (OMSA) for Fall 2027**.
 
-My goal is to transition into **BizOps, Strategy & Operations, or Product Operations** roles in tech + fintech, where I can blend analytics, product thinking, and operational structure to drive impact.
+My goal is to transition into **Product Operations, Data Analytics, or Program Management** roles in tech, where I can combine data, systems thinking, and operational excellence to help teams move faster and make better decisions.
+
 
 ---
 
@@ -20,7 +22,7 @@ My goal is to transition into **BizOps, Strategy & Operations, or Product Operat
 
 * 🎓 Completing the **Georgia Tech MicroMasters in Analytics**
 * 📊 Building **graduate-caliber analytics projects** (SQL, modeling, forecasting, optimization, dashboards)
-* 💼 Preparing for **BizOps / Strategy Analyst internships in 2026**
+* 💼 Preparing for **Product Operations, Data Analytics, and Program Management internships in 2026**
 * 🚀 Strengthening skills in **SQL, Python, analytics modeling, data pipelines, and business experimentation**
 * 📈 Deepening expertise in **marketplaces, fintech, payments, and product metrics**
 
@@ -87,19 +89,19 @@ English (Fluent) • Vietnamese (Proficient)
 
 ---
 
-## 🧭 My Career Goal
+## 🧭 My Career Goal  
+Become a **Product Operations, Data Analyst, or Program Manager** in a top tech company by leveraging:
 
-Become a **BizOps / Strategy / Product Ops Analyst** at a top tech company leveraging:
-
-* Real operational experience
-* Strong analytical foundations
-* Graduate-level modeling training
-* Data-driven problem solving
+• Real operational & analytical experience  
+• OMSA-level modeling and decision analytics  
+• Strong systems thinking & workflow optimization  
+• Clear, structured, data-driven problem solving  
 
 ---
 
 ## 🔜 Coming Soon
 
-* Python + SQL modeling projects from MicroMasters
-* Forecasting & optimization workflows
-* End-to-end analytics case studies for BizOps & Strategy roles
+* Python + SQL modeling projects from MicroMasters  
+* Forecasting & optimization workflows  
+* Product metrics dashboards  
+* End-to-end analytics case studies for Product Ops & Data roles  
