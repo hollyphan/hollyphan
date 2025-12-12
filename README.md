@@ -1,4 +1,4 @@
-# 🚀 Holly Phan — Operations & Analytics
+# 🚀 Holly Phan — Product Operations and Data Analytics
 
 ### *Product Ops | Data Analytics | Program Management | Graduate Analytics Student (Georgia Tech)*
 
@@ -21,10 +21,10 @@ My goal is to transition into **Product Operations, Data Analytics, or Program M
 ## 🔍 What I’m Focused on Right Now
 
 * 🎓 Completing the **Georgia Tech MicroMasters in Analytics**
-* 📊 Building **graduate-caliber analytics projects** (SQL, modeling, forecasting, optimization, dashboards)
+* 📊 Building **graduate-caliber analytics projects** (SQL, Excel, Python)
 * 💼 Preparing for **Product Operations, Data Analytics, and Program Management internships in 2026**
-* 🚀 Strengthening skills in **SQL, Python, analytics modeling, data pipelines, and business experimentation**
-* 📈 Deepening expertise in **marketplaces, fintech, payments, and product metrics**
+* 🚀 Strengthening skills in **SQL, analytics modeling, workflow design, and product metrics**
+* 📈 Deepening expertise in **product operations, experimentation, fintech, and systems optimization**
 
 ---
 
@@ -47,7 +47,8 @@ Transformed raw housing data into an analysis-ready dataset using SQL best pract
 Comprehensive Power BI dashboard visualizing revenue, quantity sold, and profitability.
 **Skills:** Power BI, DAX, Power Query, Storytelling
 
-*(More advanced analytics, forecasting, optimization, and modeling projects coming from the MicroMasters in 2026.)*
+*(More advanced modeling, forecasting, optimization, and experimentation projects coming in 2026.)*
+
 
 ---
 
@@ -56,7 +57,6 @@ Comprehensive Power BI dashboard visualizing revenue, quantity sold, and profita
 ### **Analytics & Modeling**
 
 SQL • Excel (advanced) • Power BI • Data Cleaning • KPI Dashboards • BI Reporting
-
 *Coming soon from MicroMasters:* Python • Regression Modeling • Forecasting • Optimization • Classification
 
 ### **Business Operations & Strategy**
@@ -76,9 +76,11 @@ English (Fluent) • Vietnamese (Proficient)
 
 ## 🌟 Education
 
-🎓 **Georgia Tech — MicroMasters in Analytics (In Progress, 2026)**
-🎓 **Georgia Tech — MS in Analytics (OMSA, Planned 2027–2029)**
-🎓 **San Diego State University — B.A. in Interdisciplinary Studies (MIS, Finance, Entrepreneurship)**
+🎓 **Georgia Tech — MicroMasters in Analytics (In Progress, 2026)** 
+
+🎓 **Georgia Tech — MS in Analytics (OMSA, Planned 2027–2029)** 
+
+🎓 **San Diego State University — B.A. in Interdisciplinary Studies (MIS, Finance, Entrepreneurship)** 
 
 ---
 
@@ -90,12 +92,12 @@ English (Fluent) • Vietnamese (Proficient)
 ---
 
 ## 🧭 My Career Goal  
-Become a **Product Operations, Data Analyst, or Program Manager** in a top tech company by leveraging:
+Become a Product Operations Analyst, Data Analyst, or Program Manager in a top tech company by leveraging:
 
-• Real operational & analytical experience  
-• OMSA-level modeling and decision analytics  
-• Strong systems thinking & workflow optimization  
-• Clear, structured, data-driven problem solving  
+* Real operational and analytical experience  
+* OMSA level modeling and decision analytics  
+* Strong systems thinking and workflow optimization  
+* Clear, structured, data driven problem solving  
 
 ---
 
