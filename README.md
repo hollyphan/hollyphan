@@ -30,23 +30,6 @@ My goal is to transition into **Product Operations, Data Analytics, or Program M
 
 ## 📊 Featured Projects
 
-*(Updating regularly as I complete MicroMasters + OMSA-level work)*
-
-### ☕ Coffee Sales Performance Dashboard (Excel)
-
-Interactive Excel dashboard analyzing sales trends, customer behavior, and product performance.
-**Skills:** PivotTables, Slicers, Advanced Excel, Data Visualization, Business Insights
-
-### 🏠 Nashville Housing Data Cleaning (SQL)
-
-Transformed raw housing data into an analysis-ready dataset using SQL best practices.
-**Skills:** Joins, CTEs, Data Cleaning, Standardization, Business Reporting
-
-### 🌱 Plant Co. Global Sales Report (Power BI)
-
-Comprehensive Power BI dashboard visualizing revenue, quantity sold, and profitability.
-**Skills:** Power BI, DAX, Power Query, Storytelling
-
 *(More advanced modeling, forecasting, optimization, and experimentation projects coming in 2026.)*
 
 
