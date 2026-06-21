@@ -1,92 +1,96 @@
-# 🚀 Holly Phan — Product Operations and Data Analytics
-
-### *Product Ops | Data Analytics | Program Management | Graduate Analytics Student (Georgia Tech)*
-
-Hi! I’m **Holly**, an operations and analytics professional with **3+ years of experience** in:
-
-* Data analysis & KPI reporting  
-* Product-adjacent operations  
-* Workflow optimization & systems improvement  
-* Cross-functional execution and program coordination
-
-
-I specialize in turning ambiguous business problems into **structured, data-driven decisions**.
-Currently, I’m pursuing the **Georgia Tech MicroMasters in Analytics (2026)** and will apply to the **Georgia Tech MS in Analytics (OMSA) for Fall 2027**.
-
-My goal is to transition into **Product Operations, Data Analytics, or Program Management** roles in tech, where I can combine data, systems thinking, and operational excellence to help teams move faster and make better decisions.
-
+# Holly Phan
+**Data & Analytics | Transitioning into Analytics Engineering**  
+San Diego, CA · [LinkedIn](https://www.linkedin.com/in/hollyphan) · hollyphan0@gmail.com
 
 ---
 
-## 🔍 What I’m Focused on Right Now
+## About Me
 
-* 🎓 Completing the **Georgia Tech MicroMasters in Analytics**
-* 📊 Building **graduate-caliber analytics projects** (SQL, Excel, Python)
-* 💼 Preparing for **Product Operations, Data Analytics, and Program Management internships in 2026**
-* 🚀 Strengthening skills in **SQL, analytics modeling, workflow design, and product metrics**
-* 📈 Deepening expertise in **product operations, experimentation, fintech, and systems optimization**
+I'm an analyst with 3+ years of experience across fintech, utilities, and operations, 
+with a consistent focus on one problem:
 
----
+> Turning messy operational data into structured systems that people can actually 
+> use to make decisions.
 
-## 📊 Featured Projects
+My work has spanned billing operations at Global Payments, revenue analytics at SDG&E, 
+and financial systems consulting — all centered around improving reporting, eliminating 
+manual workflows, and building scalable data logic.
 
-*(More advanced modeling, forecasting, optimization, and experimentation projects coming in 2026.)*
+I'm now transitioning toward **Analytics Engineering**, where data infrastructure, 
+transformation logic, and business intelligence intersect.
 
-
----
-
-## 🧠 Skills
-
-### **Analytics & Modeling**
-
-SQL • Excel (advanced) • Power BI • Data Cleaning • KPI Dashboards • BI Reporting
-*Coming soon from MicroMasters:* Python • Regression Modeling • Forecasting • Optimization • Classification
-
-### **Business Operations & Strategy**
-
-Business Requirements • KPI Definition • Process Improvement • Revenue Ops • Strategic Analysis
-Cross-functional Collaboration • Product Thinking • Stakeholder Management
-
-### **Tools & Platforms**
-
-SAP S4 • SAP C4C • CASA • Smartsheet • Jira • Monday • QuickBooks
-
-### **Languages**
-
-English (Fluent) • Vietnamese (Proficient)
+My current focus:
+- SQL mastery (primary skill target)
+- Data modeling fundamentals (star schema, dimensional design)
+- Analytics engineering workflows (dbt-style thinking)
+- Git as a daily habit
 
 ---
 
-## 🌟 Education
+## What I'm Building
 
-🎓 **Georgia Tech — MicroMasters in Analytics (In Progress, 2026)** 
+### 🍪 Milk & Bánh — Analytics Engineering Project *(In Progress)*
 
-🎓 **Georgia Tech — MS in Analytics (OMSA, Planned 2027–2029)** 
+A portfolio project built on a synthetic dataset modeled after my real small-batch 
+cookie business.
 
-🎓 **San Diego State University — B.A. in Interdisciplinary Studies (MIS, Finance, Entrepreneurship)** 
+**Current phase:** SQL foundations — sales analysis, product performance, 
+revenue variance
 
----
+**Planned build-out:**
+- Data warehouse modeling (star schema / dimensional design)
+- dbt-style transformation layers
+- Customer cohort and retention analysis
+- Demand forecasting for inventory planning
 
-## 🤝 Let’s Connect
-
-💼 **LinkedIn:** [www.linkedin.com/in/hollyphan](http://www.linkedin.com/in/hollyphan)
-📧 **Email:** [Hollyphan0@gmail.com](mailto:Hollyphan0@gmail.com)
-
----
-
-## 🧭 My Career Goal  
-Become a Product Operations Analyst, Data Analyst, or Program Manager in a top tech company by leveraging:
-
-* Real operational and analytical experience  
-* OMSA level modeling and decision analytics  
-* Strong systems thinking and workflow optimization  
-* Clear, structured, data driven problem solving  
+👉 Built to replicate real analytics engineering workflows at each phase of my 
+technical development.
 
 ---
 
-## 🔜 Coming Soon
+## Technical Skills
 
-* Python + SQL modeling projects from MicroMasters  
-* Forecasting & optimization workflows  
-* Product metrics dashboards  
-* End-to-end analytics case studies for Product Ops & Data roles  
+**Currently strong**
+- Excel / Power BI (reporting pipelines, KPI dashboards)
+- Business process and revenue analysis
+- Variance analysis and exception reporting
+- Cross-functional operations (fintech, utilities, consulting)
+
+**Actively developing**
+- SQL (querying, joins, aggregations, window functions)
+- Data modeling (star schema design)
+- Git + version control habits
+
+**Next**
+- dbt fundamentals
+- Cloud data warehouses (BigQuery / Snowflake)
+- Python for analytics engineering workflows
+
+---
+
+## Education
+
+🎓 **Georgia Tech** — MicroMasters in Analytics *(In Progress, Expected Dec 2026)*  
+🎓 **San Diego State University** — B.A. Interdisciplinary Studies  
+*(MIS · Finance · Entrepreneurship)*
+
+---
+
+## Current Direction
+
+My career path is intentionally sequential:
+
+**SQL → Data Modeling → dbt → Cloud Warehousing → Python → Analytics Engineering**
+
+Prioritizing depth over breadth. Each phase has clear exit criteria before moving 
+to the next.
+
+---
+
+## Open To
+
+- Data Analyst
+- BI Analyst
+- Analytics roles at SaaS or fintech companies
+
+Prefer: Remote or hybrid · San Diego area
