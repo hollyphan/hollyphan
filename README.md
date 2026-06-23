@@ -6,17 +6,17 @@ San Diego, CA · [LinkedIn](https://www.linkedin.com/in/hollyphan) · hollyphan0
 
 ## About Me
 
-I'm an analyst with 3+ years of experience across fintech, utilities, and operations, 
+I'm an analyst with 3+ years of experience across fintech, utilities, and operations,
 with a consistent focus on one problem:
 
-> Turning messy operational data into structured systems that people can actually 
+> Turning messy operational data into structured systems that people can actually
 > use to make decisions.
 
-My work has spanned billing operations at Global Payments, revenue analytics at SDG&E, 
-and financial systems consulting — all centered around improving reporting, eliminating 
+My work has spanned revenue analytics at SDG&E, billing operations at Global Payments,
+and financial systems consulting — all centered around improving reporting, eliminating
 manual workflows, and building scalable data logic.
 
-I'm now transitioning toward **Analytics Engineering**, where data infrastructure, 
+I'm now transitioning toward **Analytics Engineering**, where data infrastructure,
 transformation logic, and business intelligence intersect.
 
 My current focus:
@@ -29,35 +29,35 @@ My current focus:
 
 ## What I'm Building
 
-### 🍪 Milk & Bánh — Analytics Engineering Project *(In Progress)*
+### 🍪 [`retail-ops-analytics`](https://github.com/hollyphan/retail-ops-analytics) — Retail Demand Forecasting & Inventory Optimization *(In Progress)*
 
-A portfolio project built on a synthetic dataset modeled after my real small-batch 
-cookie business.
+A portfolio project built on a synthetic dataset modeled after my real Vietnamese-inspired
+cookie and bánh mì pop-up business in San Diego.
 
-**Current phase:** SQL foundations — sales analysis, product performance, 
-revenue variance
+**Current phase:** SQL foundations — sales analysis, product performance, revenue variance,
+inventory tracking
 
 **Planned build-out:**
+- Customer cohort and retention analysis
 - Data warehouse modeling (star schema / dimensional design)
 - dbt-style transformation layers
-- Customer cohort and retention analysis
 - Demand forecasting for inventory planning
 
-👉 Built to replicate real analytics engineering workflows at each phase of my 
+👉 Built to replicate real analytics engineering workflows at each phase of my
 technical development.
 
 ---
 
 ## Technical Skills
 
-**Currently strong**
-- Excel / Power BI (reporting pipelines, KPI dashboards)
-- Business process and revenue analysis
-- Variance analysis and exception reporting
-- Cross-functional operations (fintech, utilities, consulting)
+**Professional experience with**
+- Excel (forecasting models, financial dashboards, KPI reporting)
+- Power BI (reporting pipelines, exception tracking, executive dashboards)
+- SAP (enterprise billing and revenue operations)
+- Variance analysis, exception reporting, reconciliation workflows
 
 **Actively developing**
-- SQL (querying, joins, aggregations, window functions)
+- SQL (querying, joins, aggregations, CTEs, window functions)
 - Data modeling (star schema design)
 - Git + version control habits
 
@@ -82,15 +82,14 @@ My career path is intentionally sequential:
 
 **SQL → Data Modeling → dbt → Cloud Warehousing → Python → Analytics Engineering**
 
-Prioritizing depth over breadth. Each phase has clear exit criteria before moving 
+Prioritizing depth over breadth. Each phase has clear exit criteria before moving
 to the next.
 
 ---
 
 ## Open To
 
-- Data Analyst
-- BI Analyst
-- Analytics roles at SaaS or fintech companies
+Targeting **BI Analyst** and **Data Analyst** roles at SaaS or fintech companies
+as the foundation for an Analytics Engineering transition.
 
 Prefer: Remote or hybrid · San Diego area
