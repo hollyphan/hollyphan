@@ -32,7 +32,7 @@ My current focus:
 ### 🍪 [`retail-ops-analytics`](https://github.com/hollyphan/retail-ops-analytics) — Retail Demand Forecasting & Inventory Optimization *(In Progress)*
 
 A portfolio project built on a synthetic dataset modeled after my real Vietnamese-inspired
-cookie and bánh mì pop-up business in San Diego.
+cookie business in San Diego.
 
 **Current phase:** SQL foundations — sales analysis, product performance, revenue variance,
 inventory tracking
