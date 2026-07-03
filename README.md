@@ -1,95 +1,67 @@
 # Holly Phan
-**Data & Analytics | Transitioning into Analytics Engineering**  
-San Diego, CA · [LinkedIn](https://www.linkedin.com/in/hollyphan) · hollyphan0@gmail.com
+**Data & Analytics → Analytics Engineering**
+San Diego, CA · [LinkedIn](https://www.linkedin.com/in/hollyphan) · [hollyphan0@gmail.com](mailto:hollyphan0@gmail.com)
 
 ---
 
-## About Me
+## About
 
-I'm an analyst with 3+ years of experience across fintech, utilities, and operations,
-with a consistent focus on one problem:
+Four years as an analyst across utilities, fintech, and operations. Roles at SDG&E, Zego, Datavestments, and Techvestor, analyzing billing and variance data, building reporting pipelines, and cleaning up data that other people relied on.
 
-> Turning messy operational data into structured systems that people can actually
-> use to make decisions.
-
-My work has spanned revenue analytics at SDG&E, billing operations at Global Payments,
-and financial systems consulting — all centered around improving reporting, eliminating
-manual workflows, and building scalable data logic.
-
-I'm now transitioning toward **Analytics Engineering**, where data infrastructure,
-transformation logic, and business intelligence intersect.
-
-My current focus:
-- SQL mastery (primary skill target)
-- Data modeling fundamentals (star schema, dimensional design)
-- Analytics engineering workflows (dbt-style thinking)
-- Git as a daily habit
+Every role pointed to the same conclusion: the reporting is only as good as the data underneath it. I'm building toward analytics engineering to work on that layer directly. Currently in SQL fundamentals. dbt, cloud warehousing, and Python are next, one phase at a time, no skipping ahead.
 
 ---
 
-## What I'm Building
+## Featured Project
 
-### 🍪 [`retail-ops-analytics`](https://github.com/hollyphan/retail-ops-analytics) — Retail Demand Forecasting & Inventory Optimization *(In Progress)*
+### [`retail-ops-analytics`](https://github.com/hollyphan/retail-ops-analytics) — Retail Demand Forecasting & Inventory Optimization
 
-A portfolio project built on a synthetic dataset modeled after my real Vietnamese-inspired
-cookie business in San Diego.
+Built on a synthetic dataset modeled after Milk & Bánh, the cookie pop-up I run in San Diego. Real business, synthetic data.
 
-**Current phase:** SQL foundations — sales analysis, product performance, revenue variance,
-inventory tracking
+**Core question:** How can a small retail business optimize inventory, pricing, and product mix using data?
 
-**Planned build-out:**
-- Customer cohort and retention analysis
-- Data warehouse modeling (star schema / dimensional design)
-- dbt-style transformation layers
-- Demand forecasting for inventory planning
+**Status**
+- Relational schema designed and loaded in MySQL — six normalized tables (products, events, customers, orders, order_items, inventory)
+- Python data generation pipeline complete
+- SQL analysis on hold until SQL fundamentals (joins, aggregation, subqueries, CTEs, window functions) are solid
 
-👉 Built to replicate real analytics engineering workflows at each phase of my
-technical development.
+I don't write analysis queries ahead of the SQL that supports them.
+
+**Coming next**
+- Sales, revenue, and inventory analysis
+- Customer retention and cohort analytics (Project 2)
+- dbt-style transformation layers and star schema modeling (Project 3)
+
+Tutorial work stays in private repos. What's here is original.
 
 ---
 
 ## Technical Skills
 
-**Professional experience with**
-- Excel (forecasting models, financial dashboards, KPI reporting)
-- Power BI (reporting pipelines, exception tracking, executive dashboards)
-- SAP (enterprise billing and revenue operations)
-- Variance analysis, exception reporting, reconciliation workflows
+**Professional experience**
+Excel (advanced) · Power BI · SAP S4/C4C · variance analysis · reconciliation · KPI reporting · requirements gathering
 
-**Actively developing**
-- SQL (querying, joins, aggregations, CTEs, window functions)
-- Data modeling (star schema design)
-- Git + version control habits
+**Currently building**
+SQL (MySQL) — joins, aggregation, subqueries; working toward CTEs and window functions
+Git/GitHub — daily commit habit
 
 **Next**
-- dbt fundamentals
-- Cloud data warehouses (BigQuery / Snowflake)
-- Python for analytics engineering workflows
+dbt · Snowflake / BigQuery · Python
 
 ---
 
 ## Education
 
-🎓 **Georgia Tech** — MicroMasters in Analytics *(In Progress, Expected Dec 2026)*  
-🎓 **San Diego State University** — B.A. Interdisciplinary Studies  
-*(MIS · Finance · Entrepreneurship)*
-
----
-
-## Current Direction
-
-My career path is intentionally sequential:
-
-**SQL → Data Modeling → dbt → Cloud Warehousing → Python → Analytics Engineering**
-
-Prioritizing depth over breadth. Each phase has clear exit criteria before moving
-to the next.
+**Georgia Institute of Technology** — MicroMasters in Analytics, *In Progress, Expected Dec 2026*
+**San Diego State University** — B.A. Interdisciplinary Studies (MIS, Finance, Entrepreneurship)
 
 ---
 
 ## Open To
 
-Targeting **BI Analyst** and **Data Analyst** roles at SaaS or fintech companies
-as the foundation for an Analytics Engineering transition.
+BI Analyst or Data Analyst roles, strongest fit at SaaS or fintech companies but open to any organization with a real analytics function and modern data stack. Bridge role toward Analytics Engineering. Remote preferred, hybrid in San Diego acceptable.
+---
 
-Prefer: Remote or hybrid · San Diego area
+## What You'll Find Here
+
+Projects reflect my skill level at the time they were built. No retrofitted complexity, no analysis ahead of the SQL behind it.
