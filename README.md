@@ -8,34 +8,33 @@ San Diego, CA · [LinkedIn](https://www.linkedin.com/in/hollyphan) · [hollyphan
 
 ## About
 
-Four years as an analyst across utilities, fintech, and operations. Roles at SDG&E, Zego, Datavestments, and Techvestor, analyzing billing and variance data, building reporting pipelines, and closing data quality gaps other people depended on.
+Four years as an analyst across utilities, fintech, and operations. Roles at SDG&E, Zego, and Techvestor, analyzing billing and variance data, building reporting pipelines, and closing data quality gaps other people depended on.
 Every role pointed to the same conclusion:
 
 >Reporting is only as good as the data underneath it.
 
 I'm building toward analytics engineering to work on that layer directly, using a real business (Milk & Bánh, a Vietnamese-inspired cookie business I run in San Diego) as the anchor for my portfolio instead of generic datasets.
-Currently in SQL fundamentals, working toward CTEs and window functions. dbt, cloud warehousing, and Python are next, one phase at a time. Targeting a BI/DA role as a bridge into analytics engineering, with the transition timed to my Georgia Tech MicroMasters completion in December 2026.
+SQL fundamentals are done — currently applying CTEs, window functions, and ranking logic across a full analytics project. dbt, cloud warehousing, and Python are next, one phase at a time. Targeting a BI/DA role as a bridge into analytics engineering, with the transition timed to my Georgia Tech MicroMasters completion in December 2026.
 
 ---
 
 ## Featured Project
 
-### [`retail-ops-analytics`](https://github.com/hollyphan/retail-ops-analytics) — Retail Demand Forecasting & Inventory Optimization
+### [`retail-ops-analytics`](https://github.com/hollyphan/retail-ops-analytics) — Retail Demand & Operations Analytics
 
 Built on a synthetic dataset modeled after Milk & Bánh, a cookie pop-up I run in San Diego. Real business, synthetic data.
 
-**Core question:** How can a small retail business optimize inventory, pricing, and product mix using data?
+**Core question:** How can a small retail business optimize demand forecasting, inventory, and product mix using data?
 
-**Status**
+**Status: Complete**
 
-- Relational schema designed and loaded in MySQL — six normalized tables (products, events, customers, orders, order_items, inventory)
+- Relational schema designed and loaded in MySQL — six normalized tables (products, events, customers, orders, order_items, inventory), with ERD documented in the repo
 - Python data generation pipeline complete
-- SQL analysis on hold until SQL fundamentals (joins, aggregation, subqueries, CTEs, window functions) are solid
-
+- Full SQL analysis complete across 5 modules: demand analysis, inventory optimization, event performance, product mix, and forecasting — using CTEs, window functions, ranking functions, self-joins, and derived KPIs
+- Findings documented as structured business insights (question, analysis, recommendation) for each module
 
 **Coming next**
 
-- Sales, revenue, and inventory analysis
 - Customer retention and cohort analytics (Project 2)
 - dbt-style transformation layers and star schema modeling (Project 3)
 
@@ -51,7 +50,7 @@ Excel (advanced) · Power BI · SAP S4/C4C · variance analysis · reconciliatio
 
 **Currently building**
 
-SQL (MySQL) — joins, aggregation, subqueries; working toward CTEs and window functions
+SQL (MySQL) — joins, aggregation, subqueries, CTEs, window functions, ranking functions, self-joins; applied across a full portfolio project
 Git/GitHub — daily commit habit
 
 **Next**
