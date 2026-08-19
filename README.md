@@ -9,7 +9,7 @@ Four years as an analyst across utilities, fintech, and operations. Roles at SDG
 
 > Reporting is only as good as the data underneath it.
 
-I'm building toward analytics engineering to work on that layer directly, using a real business (Milk & Bánh, a Vietnamese-inspired cookie business I run in San Diego) as the anchor for my portfolio instead of generic datasets. SQL fundamentals are done — currently building Project 2 (customer retention, RFM segmentation, CLV) using CTEs, window functions, and cohort logic. dbt, cloud warehousing, and Python are next, one phase at a time. Targeting a BI/DA role as a bridge into analytics engineering, with the transition timed to my Georgia Tech MicroMasters completion in December 2026.
+I'm building toward analytics engineering to work on that layer directly, using a real business (Milk & Bánh, a Vietnamese-inspired cookie business I run in San Diego) as the anchor for my portfolio instead of generic datasets. SQL fundamentals are done — Project 2 (customer retention, RFM segmentation, CLV) is complete. Now starting Project 3, an analytics engineering pipeline with dbt. Cloud warehousing and Python are next, one phase at a time. Targeting a BI/DA role as a bridge into analytics engineering, with the transition timed to my Georgia Tech MicroMasters completion in December 2026.
 
 ---
 
@@ -25,13 +25,12 @@ Core question: How can a small retail business optimize demand forecasting, inve
 - Full SQL analysis complete across 5 modules — demand, inventory, event performance, product mix, forecasting — using CTEs, window functions, ranking functions, and derived KPIs
 - Findings documented as structured business insights per module
 
-**Project 2 — Customer Retention & Cohort Analytics** — *In progress*
+**Project 2 — Customer Retention & Cohort Analytics** — *Complete*
 Core question: How can a business increase retention, repeat purchases, and customer lifetime value?
-- Cohort retention analysis complete
-- RFM segmentation complete (7-segment model)
-- Customer lifetime value module in progress
+- Cohort retention analysis, RFM segmentation (7-segment model), and customer lifetime value all complete
+- Findings documented as structured business insights per module, same format as Project 1
 
-**Project 3 — Analytics Engineering Pipeline** — *Not started*
+**Project 3 — Analytics Engineering Pipeline** — *In Progress* 
 Core question: How can raw operational data be transformed into reliable, analytics-ready datasets?
 Skills targeted: dbt, star schema, fact/dimension tables, data validation, modular SQL
 
@@ -65,4 +64,4 @@ BI Analyst or Data Analyst roles, strongest fit at SaaS or fintech companies but
 ---
 
 ## What You'll Find Here
-Projects reflect my skill level at the time they were built. No retrofitted complexity, no analysis ahead of the SQL behind it.
+Projects reflect my skill level at the time they were built.
