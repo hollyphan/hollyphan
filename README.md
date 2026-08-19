@@ -19,6 +19,7 @@ I'm building toward analytics engineering to work on that layer directly, using 
 Built on a synthetic dataset modeled after Milk & Bánh, a cookie pop-up I run in San Diego. Real business, synthetic data.
 
 **Project 1 — Retail Demand & Operations Analytics** — *Complete*
+
 Core question: How can a small retail business optimize demand forecasting, inventory, and product mix using data?
 - Relational schema designed and loaded in MySQL — six normalized tables (products, events, customers, orders, order_items, inventory), with ERD documented in the repo
 - Python data generation pipeline complete
@@ -26,11 +27,13 @@ Core question: How can a small retail business optimize demand forecasting, inve
 - Findings documented as structured business insights per module
 
 **Project 2 — Customer Retention & Cohort Analytics** — *Complete*
+
 Core question: How can a business increase retention, repeat purchases, and customer lifetime value?
 - Cohort retention analysis, RFM segmentation (7-segment model), and customer lifetime value all complete
 - Findings documented as structured business insights per module, same format as Project 1
 
 **Project 3 — Analytics Engineering Pipeline** — *In Progress* 
+
 Core question: How can raw operational data be transformed into reliable, analytics-ready datasets?
 Skills targeted: dbt, star schema, fact/dimension tables, data validation, modular SQL
 
