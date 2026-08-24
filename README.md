@@ -56,7 +56,7 @@ dbt · Snowflake / BigQuery · Python
 ---
 
 ## Education
-**Georgia Institute of Technology** — MicroMasters in Analytics, *In Progress, Expected Dec 2026*
+**Georgia Institute of Technology** — MicroMasters in Analytics, *In Progress, Expected Dec 2026*  
 **San Diego State University** — B.A. Interdisciplinary Studies (MIS, Finance, Entrepreneurship)
 
 ---
