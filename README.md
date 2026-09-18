@@ -41,7 +41,7 @@ Git/GitHub — daily commit habit, SSH-based workflow
 ---
 
 ## Education
-**Georgia Institute of Technology** — MicroMasters in Analytics, *In Progress, Expected Jan 2027*
+**Georgia Institute of Technology** — MicroMasters in Analytics, *In Progress, Expected Jan 2027*  
 **San Diego State University** — B.A. Interdisciplinary Studies (MIS, Finance, Entrepreneurship), *Aug 2023*
 
 ---
