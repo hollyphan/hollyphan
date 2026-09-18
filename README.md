@@ -20,10 +20,12 @@ Property Billing & Payments Analytics — synthetic multifamily utility billing 
 
 Core question: where is a property billing system leaking revenue or creating payment friction across a portfolio, and which properties or utility types need intervention first?
 
-**Status: in progress.**
+**Status: files 01-03 complete, 04-05 in progress.**
 - Relational schema designed and loaded in MySQL — 6 normalized tables (properties, units, leases, utility_accounts, charges, payments)
 - Python/Faker synthetic data generation pipeline complete (seed 42, reproducible)
-- SQL exception detection, payment delinquency analysis, and a Power BI dashboard are in progress
+- Files 01-03 complete: data cleaning, billing exception detection, payment delinquency analysis
+- Files 04-05 in progress: portfolio variance trend, revenue-at-risk summary
+- Power BI dashboard to follow
 
 ---
 
