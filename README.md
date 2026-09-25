@@ -5,9 +5,7 @@ San Diego, CA · [LinkedIn](https://www.linkedin.com/in/hollyphan) · hollyphan0
 ---
 
 ## About
-Four years as an analyst across utilities, fintech, and operations. Roles at SDG&E, Zego, and Techvestor, analyzing billing and variance data, building reporting pipelines, and closing data quality gaps other people depended on. Every role pointed to the same conclusion:
-
-> Reporting is only as good as the data underneath it.
+Four years as an analyst across utilities, fintech, and operations. Roles at SDG&E, Zego, and Techvestor, analyzing billing and variance data, building reporting pipelines, and closing data quality gaps other people depended on. 
 
 Now building that out as an independent SQL portfolio: schema design, billing exception detection, payment delinquency analysis, and dashboarding, grounded in real billing/payments domain experience rather than a generic dataset.
 
@@ -37,6 +35,7 @@ Excel (advanced) · Power BI · SAP S4/C4C · variance analysis · reconciliatio
 **Currently applying**
 SQL (MySQL) — joins, aggregation, CTEs, window functions, ranking functions, self-joins
 Git/GitHub — daily commit habit, SSH-based workflow
+Python - Pandas
 
 ---
 
